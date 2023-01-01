@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-color: rgb(135, 222, 215);
+    color: rgb(237, 100, 146);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px !important;
+    box-shadow:5px 10px 50px rgb(139, 16, 0);   
+}
+
+.header p {
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+    font-weight: bold;
+}
+
+#startbt{
+    font-size:xx-large ;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+
+.last_div{
+    background-color:lightseagreen;
+    color:rgba(252, 252, 252, 0.979);
+    bottom: 0;
+    position: fixed;
+    text-shadow:5px 10px 10px rgb(139, 16, 0);
+    
+    width: 100%;
+    text-align: center;
+}
